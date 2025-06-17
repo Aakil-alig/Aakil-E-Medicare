@@ -1,15 +1,17 @@
 update at 4:19 / 22-05-2025
 
+Project Created By Mohd Aakil (MDU Rohtak)
+
 for admin panel
-http://localhost/edoc-doctor-appointment-system-main/admin
+http://localhost/e-medicare/admin
 
 email: admin@edoc.com
 pass: 123
 
 
 for doctor
-email :hardeep@gmail.com
-password: 123
+email :mdaakil2@gmail.com
+password: 1604
 
 for patient  
 email :patient5@gmail.com
@@ -24,7 +26,7 @@ than we import file name "SQL_Database_edoc.sql"
 
 
 search in browser for main website
-http://localhost/edoc-doctor-appointment-system-main/
+http://localhost/e-medicare/
 
 
 github link + video
@@ -108,7 +110,7 @@ Server Software: 	`Apache/2.4.39 (Win64) PHP/7.3.5`
 
 MySQL Version: 		`5.7.26`
 
-Demo video: https://youtu.be/mAWHYAHmit4
+
 
 
 
