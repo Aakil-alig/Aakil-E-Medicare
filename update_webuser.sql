@@ -1,0 +1,3 @@
+ALTER TABLE webuser
+ADD COLUMN reset_token VARCHAR(64) NULL,
+ADD COLUMN reset_expiry DATETIME NULL; 
